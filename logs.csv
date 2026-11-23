@@ -1,0 +1,7 @@
+timestamp,level,source,message,location
+2026-11-22 08:15:00,INFO,Firewall,Normal traffic,Dallas
+2026-11-22 08:20:00,CRITICAL,IDS,Possible intrusion,Dallas
+2026-11-22 08:25:00,WARNING,Server,High CPU usage,Dallas
+2026-11-22 08:30:00,CRITICAL,Firewall,Unauthorized access,Houston
+2026-11-22 08:35:00,INFO,Server,Backup completed,Austin
+2026-11-22 08:40:00,CRITICAL,Endpoint,Malware detected,Austin
