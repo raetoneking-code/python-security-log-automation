@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+errors.log
+output_*.zip
+report_*.csv
+report_*.json
